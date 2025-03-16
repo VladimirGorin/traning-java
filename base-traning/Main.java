@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -32,27 +31,27 @@ public class Main {
         // boolean someboolean = true;
 
 
-        Scanner scan = new Scanner(System.in);
+        // Scanner scan = new Scanner(System.in);
 
-        float someNumber1, someNumber2, res;
+        // float someNumber1, someNumber2, res;
 
-        System.out.print("Введите число 1: ");
-        someNumber1 = scan.nextFloat();
+        // System.out.print("Введите число 1: ");
+        // someNumber1 = scan.nextFloat();
 
-        System.out.print("Введите число 2: ");
-        someNumber2 = scan.nextFloat();
+        // System.out.print("Введите число 2: ");
+        // someNumber2 = scan.nextFloat();
 
-        res = someNumber1 + someNumber2;
-        System.out.println("Ваш результат: " + res);
+        // res = someNumber1 + someNumber2;
+        // System.out.println("Ваш результат: " + res);
 
-        // System.out.println("Введите ваше имя: ");
-        // String username = scan.nextLine();
-        // System.out.println("Введите ваш возраст: ");
-        // int userAge = scan.nextInt();
+        // // System.out.println("Введите ваше имя: ");
+        // // String username = scan.nextLine();
+        // // System.out.println("Введите ваш возраст: ");
+        // // int userAge = scan.nextInt();
 
-        // System.out.println(userAge);
-        // System.out.println(username);
+        // // System.out.println(userAge);
+        // // System.out.println(username);
 
-        scan.close();
+        // scan.close();
     }
 }
