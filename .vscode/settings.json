@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "base-traning"
+        "base-traning",
+        "games"
     ],
     "java.project.referencedLibraries": []
 }
